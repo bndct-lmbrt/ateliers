@@ -25,7 +25,7 @@ Comme dans la peinture il s’agit d’exprimer des sensations et des mots avec 
 lecture et création autour des éléments du conte
 
 
-![gastronomie et Japon](https://github.com/bndct-lmbrt/ateliers/medias/japonmediath.jpg)
+![gastronomie et Japon](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/japonmediath.jpg)
  
 
 ## Construction de personnages mangas : 
