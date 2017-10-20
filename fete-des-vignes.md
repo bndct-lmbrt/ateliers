@@ -41,13 +41,16 @@ Je propose pour les ateliers de 20 min la création de tartines créatives avec 
 
  ![Tartines fleuries](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/tartines-printemps.jpg)
 
+* Mêler des goûts simples dont on a perdu l'habitude, retrouver de la gourmandise grâce aux couleurs et aux mélanges
+
+![Mélanges de couleurs](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/soupeFroide1.jpg)
 
 
 ## Pédagogie
 
 
 *	Raconter l'histoire d'un légume en 3/4 min  
-Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit on plus que des oranges sur nos étals ?   Pourquoi la carotte violette ou jaune ont disparus ?
+Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit on plus que des oranges sur nos étals ?     Pourquoi la carotte violette ou jaune ont disparus ?
 
  ![Carottes colorées](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/carottes-couleurs.jpg)
 
