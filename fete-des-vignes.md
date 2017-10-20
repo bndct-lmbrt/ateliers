@@ -43,7 +43,6 @@ Je propose pour les ateliers de 20 min la création de tartines créatives avec 
 
 * Mêler des goûts simples dont on a perdu l'habitude, retrouver de la gourmandise grâce aux couleurs et aux mélanges
 
-![Mélanges de couleurs](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/soupeFroide1.jpg)
 
 
 ## Pédagogie
