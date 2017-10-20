@@ -63,7 +63,7 @@ Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit
  ![Table décorée](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/table-nature.png)
 
 
-**Ateliers pour adultes ou pour enfants**  
+**Ateliers pour adultes et pour enfants**  
 
 *Besoin*  d’un espace avec table et chaises  
 
