@@ -64,7 +64,11 @@ Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit
 
 
 **Ateliers pour adultes ou pour enfants**  
-*Besoin* d’un espace avec table et chaises  
-*Durée* 20 minutes   
-*Groupes* de 8 personnes   
-*Tarif* 1100€ TTC pour 7 ateliers de 20'  
+
+*Besoin*  d’un espace avec table et chaises  
+
+*Durée*  20 minutes   
+
+*Groupes*  de 8 personnes   
+
+*Tarif*  1100€ TTC pour 7 ateliers de 20'  
