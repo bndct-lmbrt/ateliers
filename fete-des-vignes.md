@@ -46,8 +46,8 @@ Je propose pour les ateliers de 20 min la création de tartines créatives avec 
 ## Pédagogie
 
 
-*	Raconter l'histoire d'un légume en 3/4 min
-Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit on plus que des oranges sur nos étals ? Pourquoi la carotte violette ou jaune ont disparus ?
+*	Raconter l'histoire d'un légume en 3/4 min  
+Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit on plus que des oranges sur nos étals ?   Pourquoi la carotte violette ou jaune ont disparus ?
 
  ![Carottes colorées](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/carottes-couleurs.jpg)
 
@@ -64,7 +64,7 @@ Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit
 
 
 **Ateliers pour adultes ou pour enfants**  
-*Besoin* d’un espace avec table et chaises.  
-*Durée* 20 minutes 
-*Groupes* de 8 personnes 
-*Tarif* 1100€ TTC pour 7 ateliers de 20'
+*Besoin* d’un espace avec table et chaises  
+*Durée* 20 minutes   
+*Groupes* de 8 personnes   
+*Tarif* 1100€ TTC pour 7 ateliers de 20'  
