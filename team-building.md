@@ -46,6 +46,8 @@ Marteau pour casser des noisettes
 
 * Univers graphique et synthaxique de la construction, travail sur les matières et les couleurs  
 
+----------------------------------------------------------------
+
 ### La ruche
 
 3 espaces de travail  
@@ -65,6 +67,8 @@ légumes, graines, épices, tartinables, produits simples et innovants pour des 
 
  ![experiences](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/labo-api.jpg)
 
+----------------------------------------------------------------
+
 ### Voyage au Japon
 
 Immersion dans la culture japonaise dans les saveurs et les traditions  
@@ -82,7 +86,7 @@ technique minutieuse utilisée dans la pâtisserie japonaise, qui est aussi lié
 
 ![gastronomie et Japon](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/voyage-japon.jpg)
  
-
+----------------------------------------------------------------
 
 ## Cuisine collaborative
 
@@ -99,6 +103,7 @@ Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici 
 
  ![cuisine collaborative](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/cuisinecollabo-moustic.jpg)
 
+----------------------------------------------------------------
 
 **Conditions techniques**  
 
