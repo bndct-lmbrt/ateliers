@@ -55,7 +55,7 @@ Marteau pour casser des noisettes
 terreau en crumble, petits arbres de chou romanesco, mini-légumes, arbustes de bretzels et herbes aromatiques, ciboulette en herbe folle, fleurs comestibles  
 sauce verte aux herbes  
 
-* **le coeur de la ruche avec les ouvrières** : de multiples alvéoles remplies de pleins de produits étonnants, fabriquer des plats à plusieurs sans savoir ce que les autres ont mis, faire confiance pour mutualliser les savoir-faire  
+* **le coeur de la ruche avec les ouvrières** : de multiples alvéoles remplies de plein de produits étonnants, fabriquer des plats à plusieurs sans savoir ce que les autres ont mis, faire confiance pour mutualiser les savoir-faire  
 
  ![alveoles](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/alveoles.jpg)
 
