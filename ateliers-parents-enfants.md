@@ -28,7 +28,7 @@ Interruptions ludiques pour mettre un peu de piquant :
 
  ![oeuvre-collaborative](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/fresque-collaborative.jpg)
 
-* On dispose une grande palette de couleurs, composée de produits frais et sains, des ingrédients connus et d'autres plus surprenants (purée de maïs, avocat, sauce tomate, betterave chioggia, graines de sarrasin...)
+* On dispose une grande palette de couleurs, composée de produits frais et sains, des ingrédients connus et d'autres plus surprenants (purée de maïs, avocat, sauce tomate, betterave chioggia, graines de sarrasin, cristaux d'agrumes...)
 * Outils pour créer : pinceaux, palettes, emporte-pièces, pochoirs
 * Fabrication de l'oeuvre à plusieurs
 
@@ -42,12 +42,12 @@ Interruptions ludiques pour mettre un peu de piquant :
 
 ----------------------------------------------------------------
 
-### création de poèmes comestibles 
+### Créer des poèmes comestibles 
 
-* raconter une histoire avec les aliments d’après des haïkus (poèmes japonais très courts).  
+* Raconter une histoire avec les aliments d’après des haïkus (poèmes japonais très courts).  
 Comme dans la peinture il s’agit d’exprimer des sensations et des mots avec des aliments, qui peuvent être sculptés, assemblés avec du bois flotté, des plumes, des objets, pour recréer la poésie dans l'assiette  
-* découper des éléments pour créer des personnages, des éléments de nature, comme pour les bento
- * déguster les assiettes tous ensemble en lisant les poèmes
+* Découper des éléments pour créer des personnages, des éléments de nature, comme pour les bento
+* Déguster les assiettes tous ensemble en lisant les poèmes
 
 Interruptions ludiques pour mettre un peu de piquant : 
 - dessiner ensemble la vision de l'assiette
@@ -58,18 +58,18 @@ Interruptions ludiques pour mettre un peu de piquant :
  
 ----------------------------------------------------------------
 
-## Cuisine collaborative
+## Pourquoi la cuisine collaborative ?
 
  ![travaux](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/travaux-cacahuete.jpg)
 
 *	**Créer la vision d'ensemble**  
-J'explique la thématique, le but, les outils à disposition et ensuite ce sont les participants qui décident ce qu'ils vont en faire.  
+J'explique la thématique, le but, les outils à disposition et ensuite ce sont les participants qui décident ce qu'ils vont en faire. Ils deviennent acteurs de leur alimentation et passent par l'expérimentation pour changer.  
 
 * **Favoriser la collaboration et non la compétition**  
 Pour créer de nouvelles interactions, améliorer le "faire ensemble", permettre d'avancer vers de nouvelles manières de cuisiner grâce aux outils collaboratifs et créatifs  
 
 * **Créer du ludique et de l'expérience**  
-Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici on passe par le jeu, l'expérimentation, le lâcher-prise.  
+Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici on passe par le jeu, l'expérimentation, le lâcher-prise. C'est comme ça que l'on va découvrir des surprises, des trésors.  
 
  ![cuisine collaborative](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/cuisinecollabo-moustic.jpg)
 
@@ -81,4 +81,4 @@ Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici 
 d’un espace avec table et chaises, de prises électriques   
 
 *Durée*  
-150 minutes avec la dégustation      
+180 minutes avec la dégustation      
