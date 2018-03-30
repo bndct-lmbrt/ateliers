@@ -5,7 +5,7 @@
 
 ### Faire son jardin potager comestible
 
-![jardin de légumes](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/mini-potager2.jpg)
+![jardin de légumes](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/mini-potager1.jpg)
 
 * Faire un crumble noir pour fabriquer sa terre comestible.  
 * Préparer les légumes qui vont venir être plantés (tomates, champignons, chou-fleur de couleurs, fleurs comestibles).   
@@ -18,7 +18,7 @@ Interruptions ludiques pour mettre un peu de piquant :
 - ajouter un ingrédient secret...
 
 
-![jardin de légumes](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/mini-potager1.jpg)
+![jardin de légumes](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/mini-potager2.jpg)
 
 
 ----------------------------------------------------------------
