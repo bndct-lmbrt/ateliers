@@ -100,7 +100,7 @@ Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici 
 
 *Durée*  150 minutes   
 
-*Groupes*  20 personnes   
+*Groupes*  20 personnes (minimum)   
 
 *Tarif*  
 construction/architecture 48€/personne  
