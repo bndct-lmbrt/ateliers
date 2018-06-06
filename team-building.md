@@ -103,8 +103,8 @@ Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici 
 *Groupes*  20 personnes   
 
 *Tarif*  
-construction/architecture 48€/personne
-la ruche 42€/personne
-voyage au Japon 39€/personne
-Tous les prix sont TTC
-Demande d'un acompte de 30% à la réservation de l'évènement  
+construction/architecture 48€/personne  
+la ruche 42€/personne  
+voyage au Japon 39€/personne  
+Tous les prix sont TTC  
+Demande d'un acompte de 30% à la réservation de l'évènement    
