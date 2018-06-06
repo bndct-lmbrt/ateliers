@@ -9,21 +9,21 @@ Je propose pour les ateliers de 20 min la création de tartines créatives avec 
 
 *	un support facile à s'approprier comme une toile blanche pour la créativité
 
- ![Légumes oubliés](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/legumes-oublies.jpg)
+ ![Légumes oubliés](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/legumes-oublies.jpg)
 
 *	Des légumes oubliés: betteraves chioggia, betterave jaune, carottes de divers couleurs, radis, chou rave, courges, herbes aromatiques et pousses de salade anciennes (pourpier par exemple)
 
- ![Betteraves](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/betteraves.jpg)
+ ![Betteraves](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/betteraves.jpg)
 
 •	des produits de la vigne : du raisin, de la gelée de raisin, des raisins secs, raisins marinés au vin (pour les adultes) et légumes cuits au vin 
 
- ![Raisin](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/raisins.jpg)
+ ![Raisin](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/raisins.jpg)
 
- ![Légumes cuits avec du vin](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/legumes-cuits-vin.jpg)
+ ![Légumes cuits avec du vin](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/legumes-cuits-vin.jpg)
 
 •	autres éléments de création : fromage de chèvre, fruits secs, fleurs comestibles
 
-![Fleurs](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/tartines-fleurs.jpg)
+![Fleurs](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/tartines-fleurs.jpg)
  
 
 ## Technique
@@ -31,15 +31,15 @@ Je propose pour les ateliers de 20 min la création de tartines créatives avec 
 
 *	Dressage des tartines par les participants avec objectif de faire des tartines belles et colorées
 
- ![Dressage](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/dressage.jpg)
+ ![Dressage](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/dressage.jpg)
 
- ![Dressage](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/radis.jpg)
+ ![Dressage](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/radis.jpg)
 
 * Possibilité de découpe avec des emporte pièces pour les enfants
 
- ![Tartines météo](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/meteo-tartines.jpg)
+ ![Tartines météo](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/meteo-tartines.jpg)
 
- ![Tartines fleuries](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/tartines-printemps.jpg)
+ ![Tartines fleuries](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/tartines-printemps.jpg)
 
 * Mêler des goûts simples dont on a perdu l'habitude, retrouver de la gourmandise grâce aux couleurs et aux mélanges
 
@@ -51,7 +51,7 @@ Je propose pour les ateliers de 20 min la création de tartines créatives avec 
 *	Raconter l'histoire d'un légume en 3/4 min  
 Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit on plus que des oranges sur nos étals ?     Pourquoi la carotte violette ou jaune ont disparus ?
 
- ![Carottes colorées](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/carottes-couleurs.jpg)
+ ![Carottes colorées](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/carottes-couleurs.jpg)
 
 ## Décoration du stand
 
@@ -62,7 +62,7 @@ Par exemple commencer l'atelier avec l'histoire des carottes, pourquoi n'en voit
 *	Offrir un cadre de nature et ouvrir sur l'imaginaire
 
 
- ![Table décorée](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/table-nature.png)
+ ![Table décorée](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/table-nature.png)
 
 
 **Ateliers pour adultes et pour enfants**  
