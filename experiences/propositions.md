@@ -25,7 +25,7 @@ Comme dans la peinture il s’agit d’exprimer des sensations et des mots avec 
 lecture et création autour des éléments du conte
 
 
-![gastronomie et Japon](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/japonmediath.jpg)
+![gastronomie et Japon](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/japonmediath.jpg)
  
 
 ## Construction de personnages mangas : 
@@ -34,11 +34,11 @@ lecture et création autour des éléments du conte
 *	biscuits à peindre (glaçages colorés) avec des expressions mangas
 possibilité de se référer à un manga en particulier ou présenter différents types de mangas
 
- ![Personnages manga](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/manga-cupcake.jpg)
+ ![Personnages manga](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/manga-cupcake.jpg)
  
 *	personnages en pop cake : créer les particularités du personnage 
 
- ![Personnages manga](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/pumkin-popcake.jpg)
+ ![Personnages manga](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/pumkin-popcake.jpg)
 
 
 
@@ -52,7 +52,7 @@ Chacun prend son pinceau et crée sur la toile (façon Jackson Pollock ) et peut
 *	art figuratif
 reproduire une toile d’artiste avec des aliments
 
- ![Peinture et gastronomie](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/arts.jpg)
+ ![Peinture et gastronomie](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/arts.jpg)
 
 ## Atelier Alice au pays des merveilles :
 
@@ -66,7 +66,7 @@ reproduire une toile d’artiste avec des aliments
 *	les jardins de la reine de coeur : créer des jardins de légumes
 
 
- ![Alice au pays des merveilles](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/alice.jpg)
+ ![Alice au pays des merveilles](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/alice.jpg)
 
 
 **Ateliers pour adultes ou pour enfants** (ou pour les deux) à partir de 6 ans suivant les ateliers  
