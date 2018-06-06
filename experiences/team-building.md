@@ -9,7 +9,7 @@ Toutes les thématiques ont pour point commun d'être articulées autour de la c
 
 Construire une ville ensemble à déguster : fabriquer ensemble des maisons, des gratte-ciel, des jardins, des lacs
 
-![construction](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/travaux.jpg)
+![construction](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux.jpg)
 
 * Les matériaux
 
@@ -34,7 +34,7 @@ Marteau pour casser des noisettes
 
 * Port du casque et des tabliers obligatoire
 
-![univers graphique](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/mozaique-archi.jpg)
+![univers graphique](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/mozaique-archi.jpg)
 
 * Univers graphique et synthaxique de la construction, travail sur les matières et les couleurs
 
@@ -49,13 +49,13 @@ sauce verte aux herbes
 
 * le coeur de la ruche avec les ouvrières : de multiples alvéoles remplies de pleins de produits étonnants, fabriquer des plats à plusieurs sans savoir ce que les autres ont mis, faire confiance pour mutualliser les savoir-faire
 
- ![alveoles](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/alveoles.jpg)
+ ![alveoles](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/alveoles.jpg)
 
 légumes, graines, épices, tartinables, produits simples et innovants pour des découvertes gustatives 
 
 * le laboratoire des apiculteurs : création de dessert à base de miel avec dégustation à l'aveugle et touche finale de cuisine moléculaire (billes de miel)
 
- ![experiences](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/labo-api.jpg)
+ ![experiences](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/labo-api.jpg)
 
 ### Voyage au Japon
 
@@ -72,13 +72,13 @@ On découpe des éléments pour raconter une histoire, représenter des personna
 technique minutieuse utilisée dans la pâtisserie japonaise, qui est aussi liée à la philosophie et la nature
 
 
-![gastronomie et Japon](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/japonmediath.jpg)
+![gastronomie et Japon](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/japonmediath.jpg)
  
 
 
 ## Cuisine collaborative
 
- ![travaux](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/travaux-cacahuete.jpg)
+ ![travaux](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux-cacahuete.jpg)
 
 *	Créer la vision d'ensemble.
 J'explique la thématique, le but, les outils à disposition et ensuite ce sont les participants qui décident ce qu'ils vont en faire.
@@ -89,7 +89,7 @@ Pour créer de nouvelles interactions, améliorer l'esprit d'équipe, permettre 
 * Créer du ludique et de l'expérience
 Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici on passe par le jeu, l'expérimentation, le lâcher-prise.
 
- ![cuisine collaborative](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/cuisinecollabo-moustic.jpg)
+ ![cuisine collaborative](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/cuisinecollabo-moustic.jpg)
 
 
 
