@@ -5,7 +5,7 @@
 
 ### Faire son jardin potager comestible
 
-![jardin de légumes](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/mini-potager1.jpg)
+![jardin de légumes](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/mini-potager1.jpg)
 
 * Faire un crumble noir pour fabriquer sa terre comestible.  
 * Préparer les légumes qui vont venir être plantés (tomates, champignons, chou-fleur de couleurs, fleurs comestibles).   
@@ -18,7 +18,7 @@ Interruptions ludiques pour mettre un peu de piquant :
 - ajouter un ingrédient secret...
 
 
-![jardin de légumes](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/mini-potager2.jpg)
+![jardin de légumes](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/mini-potager2.jpg)
 
 
 ----------------------------------------------------------------
@@ -26,7 +26,7 @@ Interruptions ludiques pour mettre un peu de piquant :
 ### Fabriquer une oeuvre d'art qui se mange
 
 
- ![oeuvre-collaborative](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/fresque-collaborative.jpg)
+ ![oeuvre-collaborative](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/fresque-collaborative.jpg)
 
 * On dispose une grande palette de couleurs, composée de produits frais et sains, des ingrédients connus et d'autres plus surprenants (purée de maïs, avocat, sauce tomate, betterave chioggia, graines de sarrasin, cristaux d'agrumes...)
 * Outils pour créer : pinceaux, palettes, emporte-pièces, pochoirs
@@ -38,7 +38,7 @@ Interruptions ludiques pour mettre un peu de piquant :
 - la roue des couleurs, quand on tombes sur une case, on intègre un nouvel ingrédient
 
 
- ![palette de couleurs](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/palette-couleurs-fresque.jpg)
+ ![palette de couleurs](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/palette-couleurs-fresque.jpg)
 
 ----------------------------------------------------------------
 
@@ -54,13 +54,13 @@ Interruptions ludiques pour mettre un peu de piquant :
 - faire la chaise musicale avec les groupes
 - dégustation à l'aveugle
 
-![poèmes](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/voyage-japon.jpg)
+![poèmes](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/voyage-japon.jpg)
  
 ----------------------------------------------------------------
 
 ## Pourquoi la cuisine collaborative ?
 
- ![travaux](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/travaux-cacahuete.jpg)
+ ![travaux](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux-cacahuete.jpg)
 
 *	**Créer la vision d'ensemble**  
 J'explique la thématique, le but, les outils à disposition et ensuite ce sont les participants qui décident ce qu'ils vont en faire. Ils deviennent acteurs de leur alimentation et passent par l'expérimentation pour changer.  
@@ -71,7 +71,7 @@ Pour créer de nouvelles interactions, améliorer le "faire ensemble", permettre
 * **Créer du ludique et de l'expérience**  
 Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici on passe par le jeu, l'expérimentation, le lâcher-prise. C'est comme ça que l'on va découvrir des surprises, des trésors.  
 
- ![cuisine collaborative](https://github.com/bndct-lmbrt/ateliers/blob/master/medias/cuisinecollabo-moustic.jpg)
+ ![cuisine collaborative](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/cuisinecollabo-moustic.jpg)
 
 ----------------------------------------------------------------
 
