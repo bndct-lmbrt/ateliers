@@ -76,4 +76,4 @@ atelier de 1H30 + dégustation
 
 
 
-Crédits photo : Marion Deveaud
+Crédits photo : Fabrice Veigas, Magali Brecville, Nadège Schornoz
