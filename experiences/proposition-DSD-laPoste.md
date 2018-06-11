@@ -1,7 +1,7 @@
 ## Proposition d’animation d’ateliers culinaires pour les salariés de la Poste 
 
 
-![odeurs-musique](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/odeurs-musique.jpg)
+
 
 
 ### 1.	ENJEUX 
@@ -14,6 +14,8 @@ L’objectif est de partager un moment convivial, agréable et gastronomique au 
 Ils pourront ainsi choisir l’arôme qui les détend le plus. 
 Par équipes, ils auront pour but de fabriquer des tartines qui soient belles et bonnes avec les éléments qu’ils auront choisis.  
  
+![odeurs-musique](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/odeurs-musique.jpg)
+
 
 **La fabrication** : Pour faire les tartines, il y aura 2 pôles principaux  
 •	une mise en scène reproduisant les éléments dans leur milieu naturel permettra de cueillir des tomates, des radis, de récolter du miel, de pêcher son poisson, de cueillir ses cerises.  
@@ -26,13 +28,14 @@ Par équipes, ils auront pour but de fabriquer des tartines qui soient belles et
 
 •	un défouloir à stress sera proposé afin de créer des matières comestibles : une cuve pour écraser des tomates ou des fraises, des planches pour taper du marteau sur des noisettes ou du poivre, un sac de boxe rempli de citrons pour faire du jus.  
  
-![collaboration](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux-cacahuete.jpg)
 
 Tout sera mis en œuvre de manière ludique et propositionnelle.  
 
  **Les impacts de cette expérimentation** : Le système olfactif détient le chemin le plus rapide vers le cerveau et les odeurs sont reliées à nos émotions. La première expérience sera donc frappante, sensorielle et ludique.    
 
-La collaboration par équipe permet de concilier les besoins tout en se rendant compte que ce que l’on croyait incompatible a besoin d’être tester et éprouver. Souvent on est surpris des mélanges des goûts que l’on ne croyait pas possibles. Les salariés pourront avoir un regard nouveau sur les aliments et créer de nouvelles interactions avec leur alimentation et leurs collègues, grâce aux outils de l’agilité tels que mettre au cœur les personnes et les interactions plutôt que les processus et les outils, favoriser le faire ensemble plutôt que la compétition.  
+La collaboration par équipe permet de concilier les besoins tout en se rendant compte que ce que l’on croyait incompatible a besoin d’être tester et éprouver. Souvent on est surpris des mélanges des goûts que l’on ne croyait pas possibles. Les salariés pourront avoir un regard nouveau sur les aliments et créer de nouvelles interactions avec leur alimentation et leurs collègues, grâce aux outils de l’agilité tels que mettre au cœur les personnes et les interactions plutôt que les processus et les outils, favoriser le faire ensemble plutôt que la compétition. 
+
+![collaboration](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux-cacahuete.jpg) 
 
 Se reconnecter à la nature permet de renouer le lien avec les besoins primaires et naturels, d’être plus dans le moment présent et de générer un calme intérieur. Cela renvoie aussi aux enjeux intrinsèques environnementaux et sociaux.  
 Se défaire de son stress de manière ludique et utile permet d’y trouver une solution durable et écologique.  

@@ -16,10 +16,7 @@ On expérimente, on joue avec la nourriture, on travaille en collaboration.
 
 On fabrique la nouvelle collection des rouleaux de printemps/été 2018.  
 
- 
-![rouleaux](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/springrolls.jpg)
-
-![rouleaux-printemps](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/rouleaux-printemps.jpg)
+![rouleaux-printemps](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/RouleauxPrintemps.jpg)
  
 
 Bénédicte vous propose un atelier/repas à l'Oasis Citadine le jeudi 14/06 de 12h30 à 14h (samedi 9/06 de 11h30 à 13h30) pour découvrir et s'amuser autour d'ingrédients bio, végétariens et surprenants : des feuilles au goût d'huître, des poivres qui pétillent, des légumes oubliés...  
@@ -27,7 +24,7 @@ Nous vous invitons à un retour à la nature dans ce cadre somptueux qu'est l'oa
 Vivez une expérience unique de découverte, de partage et de sensations fortes.  
 
 
- ![atelier](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/atelier-festif.jpg)
+ ![atelier](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/cueillette2.jpg)
 
 
 Tout sera mis en œuvre de manière ludique et propositionnelle.  
