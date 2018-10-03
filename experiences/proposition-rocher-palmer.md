@@ -7,7 +7,7 @@
 
 * cadavres exquis : par groupe de 4/5 chacun pense à un aliment sans connaître le choix des autres. On fabrique des oeuvres éphémères et totalement inédites (tartines, rouleaux de printemps différents formats possibles)
 
-![cadavre exquis Japon](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/cadavre-exquis-japon.jpg)
+![cadavre exquis Japon](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/cadavre-exquis.jpg)
 
 * fresque collaborative : une grande palette de couleurs avec des aliments et une grande toile blanche de tartines pour laisser parler son imagination et sa créativité artistique 
 
