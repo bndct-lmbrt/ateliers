@@ -39,7 +39,7 @@
 
 * dessine un mandala : fabriquer ensemble un mandala suivant un dessin pour le manger ensuite
 
-![mandala](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/mandala.jpg)  
+![mandala](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/mandala2.jpg)  
 
 
 
