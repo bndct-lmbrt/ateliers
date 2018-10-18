@@ -72,7 +72,7 @@ Tout sera mis en œuvre de manière ludique et propositionnelle.
 #### Bénédicte Lambert
 
 
-styliste culinaire, certifiée en pâtisserie, elle recherche, explore et s'amuse. Par sa cuisine elle invite à prendre le temps de goûter, de se laisser inspirer afin d'y trouver audace, fantaisie et créativité.  
+Styliste culinaire, certifiée en pâtisserie, elle recherche, explore et s'amuse. Par sa cuisine elle invite à prendre le temps de goûter, de se laisser inspirer afin d'y trouver audace, fantaisie et créativité.  
 
 
 
