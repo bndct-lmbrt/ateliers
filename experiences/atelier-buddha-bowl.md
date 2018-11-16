@@ -5,9 +5,10 @@
 
 ### BENTO BOX OU BUDDHA BOWL
 
-Réalisation de plats sains et décoration : éléments déjà cuits pour certains et crus pour être découpés ou assemblés
-Explication du rôle des couleurs et des textures  
-Astuces santé comment associer les aliments, quoi manger qui est beau et sain  
+Réalisation de plats sains et décoration :   
+éléments déjà cuits pour certains et crus à découper ou assembler  
+Explication du rôle des couleurs et des textures    
+Astuces santé : comment associer les aliments, quoi manger à la fois beau et sain    
 
 
 ![buddha bowl](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/buddha1.jpg)  

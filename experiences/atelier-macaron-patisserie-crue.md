@@ -11,7 +11,7 @@ Réalisation de la crème pistache
 Montage des biscuits avec les framboises fraîches et la crème pistache  
 Décoration à la feuille d'or   
 
-![macarons](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/macarons.jpg)  
+![macarons](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/macarons1.jpg)  
 
 ![macarons](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/macarons2.jpg)
 
