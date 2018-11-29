@@ -30,7 +30,7 @@ Du pain d'épices, de la noix de coco pour la neige, des biscuits à la tomate, 
 
 ![village de Noël](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/village1.jpg) 
 
-![village de Noël](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/architecturecomestible.jpg) 
+![village de Noël](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/architecture-comestible.jpg) 
 
 ### 3.BONHOMMES DE NEIGE OU MATRIOCHKAS
 
