@@ -39,4 +39,4 @@ Choux montés avec des outils pour décorer, sucre glace, pâte d'amandes, fruit
 
 ![bonhommes de neige](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/bonhomme-neige.jpg) 
 
-![Matriochka](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/matriochka.jpg) 
+![Matriochka](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/poupee-russe.jpg) 
