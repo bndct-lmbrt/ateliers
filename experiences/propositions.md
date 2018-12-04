@@ -73,4 +73,5 @@ reproduire une toile d’artiste avec des aliments
 *Besoin* d’un espace avec table et chaises, d’une prise électrique.  
 *Durée* : 2 heures en moyenne  
 *Groupes* de 12 personnes maximum (sinon prévoir un second accompagnant)
+*Prix* : à partir de 350€
 

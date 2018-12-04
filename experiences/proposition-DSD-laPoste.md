@@ -80,10 +80,9 @@ Elle utilise les outils de la collaboration et de l’agilité pour offrir des e
 
 ### 5.	COÛT DE LA PRESTATION
 
-Temps de préparation de la prestation : création des outils et de la mise en scène spécifique à l’atelier, achats et préparation culinaires : 2 jours  
-Temps de présence pour l’atelier : 10h-15h (exemple)  
-Coût de la prestation : 1700€  
-Prix des matières premières : 3€/pers  
+Création des outils et de la mise en scène spécifique à l’atelier, achats et préparation culinaires   
+Coût de la prestation : à partir de 550€ 
+Prix des matières premières : 5€/pers  
 
 
 

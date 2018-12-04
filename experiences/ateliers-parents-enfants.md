@@ -81,4 +81,7 @@ Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici 
 d’un espace avec table et chaises, de prises électriques   
 
 *Durée*  
-180 minutes avec la dégustation      
+180 minutes avec la dégustation  
+
+*Prix*
+à partir de 350€    

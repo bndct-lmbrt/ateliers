@@ -14,12 +14,12 @@ Comment fabriquer un repas sain, beau et vitalisant tout en étant extrêmement 
   On se rue sur les légumes de printemps, on joue avec les matières, les couleurs tel un Picasso de l'assiette.  
 On expérimente, on joue avec la nourriture, on travaille en collaboration.  
 
-On fabrique la nouvelle collection des rouleaux de printemps/été 2018.  
+On fabrique la nouvelle collection des rouleaux de printemps/été.  
 
 ![rouleaux-printemps](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/RouleauxPrintemps.jpg)
  
 
-Bénédicte vous propose un atelier/repas à l'Oasis Citadine le jeudi 14/06 de 12h30 à 14h (samedi 9/06 de 11h30 à 13h30) pour découvrir et s'amuser autour d'ingrédients bio, végétariens et surprenants : des feuilles au goût d'huître, des poivres qui pétillent, des légumes oubliés...  
+Bénédicte vous propose un atelier/repas à l'Oasis Citadine pour découvrir et s'amuser autour d'ingrédients bio, végétariens et surprenants : des feuilles au goût d'huître, des poivres qui pétillent, des légumes oubliés...  
 Nous vous invitons à un retour à la nature dans ce cadre somptueux qu'est l'oasis de verdure du château de Flaugergues. Le retour aux sources sera global : cueillette de légumes et pêche d'algues.   
 Vivez une expérience unique de découverte, de partage et de sensations fortes.  
 
@@ -66,12 +66,12 @@ Participants de l’atelier cuisine collaborative aux rencontres Moustic sur les
 
 
 ### 6.	COÛT DE LA PRESTATION
-
-Temps de préparation de la prestation : création des outils et de la mise en scène spécifique à l’atelier, achats et préparation culinaires : 700€   
+  
 
 Prix des matières premières : 7€/pers  
-atelier de 1H30 + dégustation  
-35€/pers pour un groupe de 25 personnes   
+atelier de 1H30/3h + dégustation   
+à partir de 450€ 
+35€/pers pour un groupe de 25 personnes 
 
 
 
