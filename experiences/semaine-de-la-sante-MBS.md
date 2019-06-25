@@ -12,11 +12,11 @@ Atelier ludique et créatif pour découvrir une alimentation saine, simple, aces
 casser des noisettes avec un marteau, taper sur des fruits...  
 Quelques explications sur le déroulé et sur comment faire des changements dans son alimentation.
 
-* 3 tartines à fabriquer par équipe de 3
-Mise à disposition d'une palette d'aliments connus ou moins connus  
-  _ cadavre exquis avec des ingrédients : chacun choisit un ingrédient et on mélange pour faire des tartines avec les différents éléments du hasard (découverte de nouvelles associations)
-  _ tartine architecturale : construire un bâtiment, une ville, un nouveau concept en 3D sur la tartine
-  _ tartine free style pour laisser libre l'imagination et la créativité
+* 3 tartines à fabriquer par équipe de 3  
+Mise à disposition d'une palette d'aliments connus ou moins connus    
+  _ cadavre exquis avec des ingrédients : chacun choisit un ingrédient et on mélange pour faire des tartines avec les différents éléments du hasard (découverte de nouvelles associations)  
+  _ tartine architecturale : construire un bâtiment, une ville, un nouveau concept en 3D sur la tartine  
+  _ tartine free style pour laisser libre l'imagination et la créativité  
   
 * Dégustation et partage
 
@@ -39,10 +39,10 @@ Atelier en préparation de l'apéro pour découvrir des recettes étonnantes pou
 * Petit icebreaker pour se connaître et appréhender les aliments : les participants feront une dégustation à l'aveugle pour tester leurs papilles  
 Quelques explications sur le déroulé et sur comment améliorer son alimentation.  
 
-* 3 recettes à réaliser :
- _ des sushis de chou-fleur
- _ un fromage végétal aux graines de tournesol et de chanvre
- _ des tartines créatives : une palette d'ingrédients pour créer des oeuvres à déguster 
+* 3 recettes à réaliser :  
+ _ des sushis de chou-fleur  
+ _ un fromage végétal aux graines de tournesol et de chanvre  
+ _ des tartines créatives : une palette d'ingrédients pour créer des oeuvres à déguster   
 
 
  ![apéro](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/apero1.jpg)
