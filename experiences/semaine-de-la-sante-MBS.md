@@ -73,7 +73,7 @@ Une conférence vivante et interactive pour comprendre les enjeux, les défis et
 
 Durée de l'intervention : 45 min + 15 min de discussion et d'échanges
 
-  ![conférence](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/conférence.jpg)
+  ![conférence](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/conference.jpg)
 
 
 #### Bénédicte Lambert
