@@ -26,7 +26,7 @@ Tout sera mis en œuvre de manière ludique, collaborative et propositionnelle a
 
 ![tartines créatives](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/tartine-creative1.jpg)
 
-![tartines créatives](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/tartine-creative1.jpg)
+![tartines créatives](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/tartine-creative2.jpg)
 
 ![tartines créatives](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/tartine-creative3.jpg)
 
