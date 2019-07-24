@@ -71,12 +71,12 @@ Immersion dans une histoire, un jeu pour faire une enquête qui amènera à voir
 
 ![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/laile-ou-la-cuisse.png)
 
-* Les outils pour l'escale-game :  
-- quizz et découvertes scientifiques au microscope  
-- immersion dans un univers pour découvrir un indice
-- reconnaissance de produits à l'aveugle avec un code
-- jeu sur les 5 sens
-- construction de mets selon les indices récoltés  
+* Les outils pour l'escale-game :    
+quizz et découvertes scientifiques au microscope    
+immersion dans un univers pour découvrir un indice  
+reconnaissance de produits à l'aveugle avec un code  
+jeu sur les 5 sens  
+construction de mets selon les indices récoltés    
 
 * Découverte des résultats et partage des recettes miracle  
 
@@ -99,12 +99,13 @@ Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici 
 
 * Tout sera mis en œuvre de manière ludique et propositionnelle avec des produits bio, à majorité de saison. 
 
- ![cuisine collaborative](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/cuisinecollabo-moustic.jpg)
 
 
 **Conditions techniques**  
 
-*Besoin*  d’un espace avec table et chaises, de prises électriques ou plusieurs espaces/espaces divisibles pour l'escale game, d'un point d'eau
+*Besoin*  d’un espace avec table et chaises, de prises électriques   
+ou plusieurs espaces/espaces divisibles pour l'escape game  
+d'un point d'eau
 
 *Durée*  90-120 minutes 
 
