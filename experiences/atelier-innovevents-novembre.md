@@ -1,4 +1,4 @@
-# Propositions d'atelier AREA Occitanie
+# Propositions d'ateliers collaboratifs
 
 
 Toutes les thématiques ont pour point commun d'être articulées autour de la créativité et de la collaboration.
@@ -67,11 +67,11 @@ Dégustation et partage
 
 Immersion dans une histoire, un jeu pour faire une enquête qui amènera à voir ou ressentir différemment certains aliments du quotidien, apprendre ou approfondir des connaissances sur l'alimentation, de manière ludique et coopérative 
 
-* L'histoire : une entreprise industrielle fabriquant des produits au rabais, avec des techniques douteuses veut s'emparer du marché en vendant un produit miracle. Pour le contrer, chaque équipe contribuera à l'empêcher de déposer un brevet et à proposer une recette gratuite et ouverte à tous.  
+* L'histoire : une entreprise industrielle fabriquant des produits au rabais, avec des techniques douteuses veut s'emparer du marché en vendant un produit miracle. Pour le contrer, chaque équipe contribuera à l'empêcher de déposer un brevet et à proposer une recette gratuite et ouverte à tous.  (histoire non contractuelle)
 
 ![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/laile-ou-la-cuisse.png)
 
-* Les outils pour l'escale-game :    
+* Les outils pour l'escape-game :    
 quizz et découvertes scientifiques au microscope    
 immersion dans un univers pour découvrir un indice  
 reconnaissance de produits à l'aveugle avec un code  
@@ -84,7 +84,7 @@ construction de mets selon les indices récoltés
  
 
 
-## La méthode : Cuisine collaborative
+## La méthode pour les 3 ateliers : Cuisine collaborative
 
  ![travaux](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux-cacahuete.jpg)
 
