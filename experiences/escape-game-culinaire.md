@@ -2,10 +2,10 @@
 
 Immersion dans une histoire, un jeu pour faire une enquête qui amènera à voir ou ressentir différemment certains aliments du quotidien, apprendre ou approfondir des connaissances sur l'alimentation, de manière ludique et coopérative 
 
-* L'histoire : Un savant fou a empoisonné un produit que tout le monde a avalé (boisson ou nourriture) tout le monde est en quarantaine jusqu’à nouvel ordre. Son assistante s’est échappée et a ramené ce qu’elle a pu pour empêcher une épidémie mondiale ! Mais ce sont des bribes ou des codes à déchiffrer car le savant se méfiait de son assistante et de tous.
-L’objet final à trouver est l’antidote avec la formule : boisson et apéritif salé collaboratif à créer et fabriquer ensemble pour sauver les personnes présentes, et le monde.
-Les participants expérimenteront la collaboration, le goût, la découverte de nouvelles saveurs, l’expérimentation, la nature, l’alchimie, la magie, les sciences physiques, l’entraide et le partage.
-Cela se compose de 7 épreuves avec des tests de goût, des tests olfactifs, des épreuves de connaissance ou de décodage, des énigmes scientifiques et de co-construction.
+* L'histoire : Un savant fou a empoisonné un produit que tout le monde a avalé (boisson ou nourriture) tout le monde est en quarantaine jusqu’à nouvel ordre. Son assistante s’est échappée et a ramené ce qu’elle a pu pour empêcher une épidémie mondiale ! Mais ce sont des bribes ou des codes à déchiffrer car le savant se méfiait de son assistante et de tous.  
+L’objet final à trouver est l’antidote avec la formule : boisson et apéritif salé collaboratif à créer et fabriquer ensemble pour sauver les personnes présentes, et le monde.  
+Les participants expérimenteront la collaboration, le goût, la découverte de nouvelles saveurs, l’expérimentation, la nature, l’alchimie, la magie, les sciences physiques, l’entraide et le partage.  
+Cela se compose de 7 épreuves avec des tests de goût, des tests olfactifs, des épreuves de connaissance ou de décodage, des énigmes scientifiques et de co-construction.  
 
 ![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/affiche-escape-game.jpg)
 
