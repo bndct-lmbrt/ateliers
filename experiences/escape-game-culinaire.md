@@ -7,7 +7,7 @@ L’objet final à trouver est l’antidote avec la formule : boisson et apérit
 Les participants expérimenteront la collaboration, le goût, la découverte de nouvelles saveurs, l’expérimentation, la nature, l’alchimie, la magie, les sciences physiques, l’entraide et le partage.
 Cela se compose de 7 épreuves avec des tests de goût, des tests olfactifs, des épreuves de connaissance ou de décodage, des énigmes scientifiques et de co-construction.
 
-![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/laile-ou-la-cuisse.png)
+![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/affiche-escape-game.jpg)
 
 * Les outils pour l'escape-game :    
 quizz et découvertes scientifiques au microscope    
@@ -24,7 +24,7 @@ construction de mets selon les indices récoltés
 
 ## La méthode  : Cuisine collaborative
 
- ![travaux](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux-cacahuete.jpg)
+
 
 *	Créer la vision d'ensemble.
 J'explique la thématique, le but, les outils à disposition et ensuite ce sont les participants qui décident ce qu'ils vont en faire.
@@ -35,22 +35,32 @@ Pour créer de nouvelles interactions, améliorer l'esprit d'équipe, permettre 
 * Créer du ludique et de l'expérience
 Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici on passe par le jeu, l'expérimentation, le lâcher-prise.
 
-* Tout sera mis en œuvre de manière ludique et propositionnelle avec des produits bio, à majorité de saison. 
+* Tout sera mis en œuvre de manière ludique et propositionnelle avec des produits bio, à majorité de saison.  
+
+ ![travaux](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux-cacahuete.jpg) 
+  
 
 
 
-**Conditions techniques**  
+
+## Conditions techniques 
 
 *Besoin*  de prises électriques   
 de plusieurs espaces/espaces divisibles pour l'escape game  
 d'un point d'eau
 
-*Durée*  90-120 minutes 
+*Durée*  90-120 minutes   
+  
+  
+
 
 ## Bénédicte Lambert
 
 Styliste, designer culinaire, certifiée en pâtisserie, elle recherche, explore et s'amuse.   
-Par sa cuisine elle invite à prendre le temps de goûter, de se laisser inspirer afin d'y trouver audace, fantaisie et créativité.     
+Par sa cuisine elle invite à prendre le temps de goûter, de se laisser inspirer afin d'y trouver audace, fantaisie et créativité.    
+  
+  
+   
 
 
 ##	Témoignages 
