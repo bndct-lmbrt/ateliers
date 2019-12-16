@@ -29,7 +29,6 @@ construction de mets selon les indices récoltés
 
 * Découverte des résultats et partage des recettes miracle  
 
-![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game5.jpg)
  
 
 
