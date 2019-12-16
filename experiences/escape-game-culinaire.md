@@ -2,23 +2,34 @@
 
 Immersion dans une histoire, un jeu pour faire une enquête qui amènera à voir ou ressentir différemment certains aliments du quotidien, apprendre ou approfondir des connaissances sur l'alimentation, de manière ludique et coopérative 
 
-* L'histoire : Un savant fou a empoisonné un produit que tout le monde a avalé (boisson ou nourriture) tout le monde est en quarantaine jusqu’à nouvel ordre. Son assistante s’est échappée et a ramené ce qu’elle a pu pour empêcher une épidémie mondiale ! Mais ce sont des bribes ou des codes à déchiffrer car le savant se méfiait de son assistante et de tous.  
+* L'histoire : Un savant fou a empoisonné un produit que tout le monde a avalé (boisson ou nourriture) tout le monde est en quarantaine jusqu’à nouvel ordre. Son assistante s’est échappée et a ramené ce qu’elle a pu pour empêcher une épidémie mondiale ! 
+
+![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game1.jpg)  
+
+
+Mais ce sont des bribes ou des codes à déchiffrer car le savant se méfiait de son assistante et de tous.  
 L’objet final à trouver est l’antidote avec la formule : boisson et apéritif salé collaboratif à créer et fabriquer ensemble pour sauver les personnes présentes, et le monde.  
+
+![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game2.jpg)  
+
+
 Les participants expérimenteront la collaboration, le goût, la découverte de nouvelles saveurs, l’expérimentation, la nature, l’alchimie, la magie, les sciences physiques, l’entraide et le partage.  
 Cela se compose de 7 épreuves avec des tests de goût, des tests olfactifs, des épreuves de connaissance ou de décodage, des énigmes scientifiques et de co-construction.  
 
-![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/affiche-escape-game.jpg)
+![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game3.jpg)
 
 * Les outils pour l'escape-game :    
 quizz et découvertes scientifiques au microscope    
 immersion dans un univers pour découvrir un indice  
 reconnaissance de produits à l'aveugle avec un code  
 jeu sur les 5 sens  
-construction de mets selon les indices récoltés    
+construction de mets selon les indices récoltés   
+
+![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game4.jpg) 
 
 * Découverte des résultats et partage des recettes miracle  
 
-![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game.png)
+![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game5.jpg)
  
 
 
@@ -47,9 +58,12 @@ Là où la cuisine du quotidien requiert de l'efficacité, de la rapidité, ici 
 
 *Besoin*  de prises électriques   
 de plusieurs espaces/espaces divisibles pour l'escape game  
-d'un point d'eau
+d'un point d'eau et d'un espace pour mettre en place le jeu ou de temps dans l'espace sans passage des participants  
+Si possible et si le nombre de personnes est important besoin d'un micro et ampli
 
-*Durée*  90-120 minutes   
+*Durée*  90-120 minutes  
+Préparation 180-240 minutes   
+
   
   
 
