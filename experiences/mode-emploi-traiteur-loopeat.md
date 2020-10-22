@@ -39,6 +39,8 @@ Ces contenants sont des consignes et ne vous coûtent absolument rien !
 
 1-Inscrivez vous sur le site   
 
+https://loopeat.fr/  
+
 ![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat1.jpg)
 
 2-Je m'inscris et rentre mon nom et un mot de passe.
@@ -94,7 +96,7 @@ Cliquez alors sur remplissage
 ![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat7.jpg)
 
 * Vous souhaitez rendre vos consignes.   
-Je ne suis pas obligé-e d'attendre de voir Bénédicte, je peux les déposer dans tous les resto partenaires (en violet sur la carte) qui se sont engagés à reprendre les contenants.  
+Je ne suis pas obligé-e d'attendre de voir Bénédicte, je peux les déposer dans tous les restos partenaires (en violet sur la carte) qui se sont engagés à reprendre les contenants.  
 
 ![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat8.jpg)
 
