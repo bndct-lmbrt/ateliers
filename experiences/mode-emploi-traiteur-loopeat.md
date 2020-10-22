@@ -41,6 +41,7 @@ Ces contenants sont des consignes et ne vous coûtent absolument rien !
 
 https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat1.png  
 https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat1.jpg
+![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat1.jpg)
 
 2-Je m'inscris et rentre mon nom et un mot de passe.
 
