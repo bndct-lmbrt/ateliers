@@ -39,27 +39,25 @@ Ces contenants sont des consignes et ne vous coûtent absolument rien !
 
 1-Inscrivez vous sur le site   
 
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat1.png  
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat1.jpg
 ![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat1.jpg)
 
 2-Je m'inscris et rentre mon nom et un mot de passe.
 
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat2.png  
+![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat2.jpg)
 
 3-J'ajoute des crédits suivant le nombre de plats (à voir lors de la commande)
 
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat3.png
+![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat3.jpg)
 
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat4.png
+![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat4.jpg)
 
 4-J'enregistre ma carte de crédit
 
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat5.png
+![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat5.jpg)
 
 5-Au moment de prendre mes plats j'utilise mes crédits en générant des codes que Bénédicte scanne  
 
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat6.png
+![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat6.jpg)
 
 # La livraison
 
@@ -93,12 +91,12 @@ Pour les rendre, 2 solutions :
 * Je souhaite garder les contenants pour une future utilisation et le faire re-remplir par les soins de Bénédicte ou dans un restaurant partenaire de LoopEat c'est possible, vos crédits restent en banque 
 Cliquez alors sur remplissage 
 
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat7.png
+![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat7.jpg)
 
 * Vous souhaitez rendre vos consignes.   
 Je ne suis pas obligé-e d'attendre de voir Bénédicte, je peux les déposer dans tous les resto partenaires (en violet sur la carte) qui se sont engagés à reprendre les contenants.  
 
-https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat8.png
+![](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/loopeat8.jpg)
 
 Ils scannent vos codes et vos crédits sont à nouveau disponible.  
 Vous pouvez alors laisser vos crédits dormant ou récupérer vos crédits, qui vous sont remboursés.
