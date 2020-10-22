@@ -80,11 +80,11 @@ construction de mets selon les indices récoltés
 
 * Découverte des résultats et partage des recettes miracle  
 
-![escape game](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game.png)
+![escape game]https://github.com/bndct-lmbrt/ateliers/raw/master/medias/escape-game.png()
  
 
 
-## La méthode pour les 3 ateliers : Cuisine collaborative
+## La méthode pour les 3 ateliers	 : Cuisine collaborative
 
  ![travaux](https://github.com/bndct-lmbrt/ateliers/raw/master/medias/travaux-cacahuete.jpg)
 
